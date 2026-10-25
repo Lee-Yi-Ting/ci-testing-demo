@@ -13,3 +13,4 @@ Build → Unit Test (matrix) → Integration Test → Staging → Production (ma
 - Automatic GitHub Issue when tests fail
 - Production deployment requires reviewer approval
 - E3 note: edited by Xiu-D
+E3 note: edited by Xiu-D
